@@ -92,6 +92,21 @@ y si queremos eliminar alguna solicitud presionamos el boton eliminar de la cada
 
 ![image](https://github.com/ArlysJavier/PruebasTecnicaKonecta/assets/114090836/3207f14e-8bb6-4218-9e6f-314a3d8546b4)
 
+******************************************* CONOCIMIENTOS DE GIT *********************************************************
+para cargar el archivo al repositorio se usaron los comando git:
+git status: para ver si estaban todos los archivos de cambio
+git add . : para agregar todos los documentos
+git commit -m: para cargar el commit que lugo se va a enviar al repositorio remoto
+git push : para subir el repo.
+
+acontinuacion pondre pantallazos de los comandos ejecutados en git
+
+1. ![image](https://github.com/ArlysJavier/PruebasTecnicaKonecta/assets/114090836/a5e9c54a-1eb2-41d7-8df1-2706f322d7e0)
+2. ![image](https://github.com/ArlysJavier/PruebasTecnicaKonecta/assets/114090836/7eaef917-28fd-41ed-9c60-ac228fc1f995)
+3. ![image](https://github.com/ArlysJavier/PruebasTecnicaKonecta/assets/114090836/f4c3e2b4-f832-4188-be37-631fd04f7871)
+4. ![image](https://github.com/ArlysJavier/PruebasTecnicaKonecta/assets/114090836/4e317822-2386-438b-a5a1-a80d234ff5ed)
+
+
 ***************************************************  GRACIAS ***********************************************************+**
 
 
