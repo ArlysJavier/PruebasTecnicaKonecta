@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "SYSTEM",
+      "password": "mecatronica07*",
+      "database": "BD_Pruebas",
+      "host": "localhost",
+      "dialect": "oracle"
+    }
+  }
+  
